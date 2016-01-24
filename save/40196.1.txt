@@ -1,0 +1,43 @@
+@0
+
+
+@1
+P1: MOV UP,ACC
+ MOV 0,DOWN
+ JGZ P1
+P0: MOV UP,ACC
+ MOV 0,DOWN
+ JGZ P1
+P00: MOV UP,ACC
+ JEZ 1D
+ MOV 0,DOWN
+ JMP P1
+1D: MOV 1,DOWN
+ JMP P00
+
+@2
+
+
+@3
+
+
+@4
+MOV UP,RIGHT
+
+@5
+MOV ANY,DOWN
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV ANY,DOWN
+
+@10
+
