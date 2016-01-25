@@ -8,7 +8,7 @@ My solutions to <a href="https://en.wikipedia.org/wiki/TIS-100">TIS-100</a>
 
 TIS-100 node | stats
 ------------- | -------------
-SELF-TEST DIAGNOSTIC | 83 CYCLES / 8 NODES / 8 INSTR
+[SELF-TEST DIAGNOSTIC](https://github.com/tgvqwsjk4jcs/TIS-100/blob/master/save/00150.0.txt) | 83 CYCLES / 8 NODES / 8 INSTR
 SIGNAL AMPLIFIER | 160 CYCLES / 4 NODES / 6 INSTR
 
 - [x] SELF-TEST DIAGNOSTIC
